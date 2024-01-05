@@ -19,4 +19,7 @@ My current solution leverages on two phases:
 
 Finally, the model is applied to predict classes for test images. The results are saved in a submission csv file ready to be evaluated on the competition platform.
 
+Private score: 0.46;
+Public score: 0.60
+
 *Note: The code also includes commented lines for saving the models at various stages if needed.*
